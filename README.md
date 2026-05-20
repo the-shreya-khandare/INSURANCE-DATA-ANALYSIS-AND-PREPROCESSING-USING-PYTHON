@@ -36,7 +36,7 @@ o	Box plots
 
 o	Heatmaps 
 
-Data Cleaning & Preprocessing
+⇨ Data Cleaning & Preprocessing
 
 •	Removed duplicate records 
 
@@ -60,9 +60,7 @@ o	Obese
 
 Feature Scaling
 
-•	Standardized numerical features using StandardScaler 
-
-Statistical Analysis
+•	Standardized numerical features using StandardScaler Statistical Analysis
 
 •	Pearson Correlation Analysis 
 
