@@ -36,7 +36,7 @@ o	Box plots
 
 o	Heatmaps 
 
-⇨ Data Cleaning & Preprocessing
+➤ Data Cleaning & Preprocessing
 
 •	Removed duplicate records 
 
@@ -46,7 +46,7 @@ o	Heatmaps
 
 •	Applied one-hot encoding on region and BMI categories 
 
-Feature Engineering
+➤ Feature Engineering
 
 •	Created BMI categories: 
 
@@ -58,7 +58,7 @@ o	Overweight
 
 o	Obese 
 
-Feature Scaling
+➤ Feature Scaling
 
 •	Standardized numerical features using StandardScaler Statistical Analysis
 
