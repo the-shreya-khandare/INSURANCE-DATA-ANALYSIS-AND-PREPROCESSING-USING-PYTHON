@@ -2,10 +2,10 @@
 
 This project focuses on performing Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, and Statistical Analysis on an insurance dataset using Python. The main goal of this project is to understand how different factors such as age, BMI, smoking habits, and region affect medical insurance expenses.
 
-# Dataset used
+# Dataset Used
 -<a href="https://github.com/the-shreya-khandare/INSURANCE-DATA-ANALYSIS-AND-PREPROCESSING-USING-PYTHON/blob/f23aaaff951b925d45b36a7390f6f13de3abe11d/insurance.csv">Dataset</a>
 
-# 📌 Project Objectives
+# Project Objectives
 
 •	Analyze and understand the insurance dataset 
 
@@ -19,7 +19,7 @@ This project focuses on performing Exploratory Data Analysis (EDA), Data Cleanin
 
 •	Prepare a clean dataset for Machine Learning models 
 
-# 🔍 Operations Performed
+# Operations Performed
 
 # Exploratory Data Analysis (EDA)
 
@@ -69,7 +69,7 @@ o	Obese
 
 •	Chi-Square Test for feature selection 
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 •	Python 
 
@@ -85,7 +85,7 @@ o	Obese
 
 •	SciPy 
 
-# 📊 Skills Learned
+# Skills Learned
 
 •	Data Analysis 
 
@@ -101,7 +101,7 @@ o	Obese
 
 •	Feature Scaling 
 
-# 🚀 Outcome
+# Outcome
 
 The final dataset was successfully cleaned, transformed, and prepared for future Machine Learning model development.
 
