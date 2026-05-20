@@ -105,3 +105,5 @@ o	Obese
 
 The final dataset was successfully cleaned, transformed, and prepared for future Machine Learning model development.
 
+![image alt](https://github.com/the-shreya-khandare/INSURANCE-DATA-ANALYSIS-AND-PREPROCESSING-USING-PYTHON/blob/b955a2def5dc30e54fa5bf6e6ad0edc24ad4230c/Final%20Data.png)
+
